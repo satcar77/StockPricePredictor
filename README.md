@@ -18,7 +18,7 @@ It is impossible to accurately predict stock prices. This model gives prediction
 #### Dependencies:
 * Keras
 * Tensorflow
-* Pandas
+* Scikit-learn
 * Numpy
 
 Goodluck and get rich...................
