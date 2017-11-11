@@ -2,9 +2,8 @@
 
 LSTM(Long Short Term Memory) based RNN(Recurrent Neural Network) model to predict stock price with dataset extractor for nepali stock prices. 
 
-It is impossible to accurately predict stock prices. This model gives predictions based upon the previous trend and may serve as a tool for you to make educated decision. 
 
-*Do not base your decision entirely from the prediction made by this model. However, in most instances, this model should surely outperform stock predictions made by a monkey.*
+*It is impossible to accurately predict stock prices. This model gives predictions based upon the previous trend and may serve as a tool for you to make educated decision, to some degree better than random choice.Therefore, Do not base your decision entirely from the prediction made by this model.*
 
 #### Overview
 
